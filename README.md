@@ -1,1 +1,1 @@
-# SQL_cheat-sheet
+# SQL_PostgreSQLc_cheat-sheet
